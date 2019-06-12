@@ -1,0 +1,13 @@
+微服务
+系统拆分
+n个工程，请求服务
+springboot--》只返回数据 maven工程 
+vue--》只发布在Nginx上
+	element
+	
+厘清层次
+
+mybatis
+	example
+	
+
